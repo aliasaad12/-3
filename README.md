@@ -1,6 +1,7 @@
 # -3
-<img width="72" height="41" alt="image" src="https://github.com/user-attachments/assets/ec4aa226-808a-4e7d-859e-f9bdbf1f077a" />
+
 عن هذا المشروع
+<img width="1495" height="860" alt="image" src="https://github.com/user-attachments/assets/441f492b-e043-4c1a-837b-43646ee7244b" />
 
 هذا المشروع هو عبارة عن ملف تعريفي (Portfolio) للمهندس علي، متخصص في هندسة الاتصالات. يعرض هذا الملف مهاراته وخبراته في مجالات متعددة من هندسة الاتصالات والبرمجة.
 
